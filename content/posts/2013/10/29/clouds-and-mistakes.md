@@ -1,9 +1,9 @@
 ---
-title: 'Помилки та Хмарки'
-date: '2013-10-29T11:41:23+02:00'
+title = 'Помилки та Хмарки'
+date = '2013-10-29T11:41:23+02:00'
 status: publish
 permalink: /2013/10/29/clouds-and-mistakes
-author: 'В''ячеслав Клевченя'
+author = "В''ячеслав Клевченя"
 excerpt: ''
 type: post
 id: 59

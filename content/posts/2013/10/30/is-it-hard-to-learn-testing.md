@@ -1,9 +1,9 @@
----
-title: 'Чи складно навчитися тестуванню?'
-date: '2013-10-30T13:49:46+02:00'
++++
+title = 'Чи складно навчитися тестуванню?'
+date = '2013-10-30T13:49:46+02:00'
 status: publish
 permalink: /2013/10/30/is-it-hard-to-learn-testing
-author: 'В''ячеслав Клевченя'
+author = "В''ячеслав Клевченя"
 excerpt: ''
 type: post
 id: 61
@@ -17,7 +17,7 @@ tag:
 post_format: []
 dsq_thread_id:
     - '3635283389'
----
++++
 Вчора в книзі Testing ASP.NET Web Applications “потрапила” на очі одна коротка, але водночас містка фраза. “Testing is easy; good testing is hard” (“Тестування є простим; добре тестування є важким” – переклад особистий)  
 Власне – це все.
 

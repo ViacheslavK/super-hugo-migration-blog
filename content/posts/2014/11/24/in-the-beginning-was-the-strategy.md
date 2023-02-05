@@ -1,9 +1,9 @@
 ---
-title: 'Спочатку була стратегія&#8230;'
-date: '2014-11-24T01:17:19+02:00'
+title = 'Спочатку була стратегія&#8230;'
+date = '2014-11-24T01:17:19+02:00'
 status: publish
 permalink: /2014/11/24/in-the-beginning-was-the-strategy
-author: 'В''ячеслав Клевченя'
+author = "В''ячеслав Клевченя"
 excerpt: ''
 type: post
 id: 69

@@ -1,9 +1,9 @@
 ---
-title: 'Вести блог про тестування. Складно?'
-date: '2016-09-27T10:05:58+03:00'
+title = 'Вести блог про тестування. Складно?'
+date = '2016-09-27T10:05:58+03:00'
 status: publish
 permalink: /2016/09/27/difficulties-of-blog-about-testing
-author: 'В''ячеслав Клевченя'
+author = "В''ячеслав Клевченя"
 excerpt: ''
 type: post
 id: 18013

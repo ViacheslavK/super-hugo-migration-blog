@@ -1,9 +1,9 @@
 ---
-title: '&#8220;Testing&#8221; what is it? (by Michael Bolton)'
-date: '2014-10-29T15:24:24+02:00'
+title = '&#8220;Testing&#8221; what is it? (by Michael Bolton)'
+date = '2014-10-29T15:24:24+02:00'
 status: publish
 permalink: /2014/10/29/testing-is
-author: 'В''ячеслав Клевченя'
+author = "В''ячеслав Клевченя"
 excerpt: ''
 type: post
 id: 65

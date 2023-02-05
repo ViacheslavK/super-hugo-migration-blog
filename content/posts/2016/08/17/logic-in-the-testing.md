@@ -1,9 +1,9 @@
 ---
-title: 'Логіка у тестуванні'
-date: '2016-08-17T23:22:21+03:00'
+title = 'Логіка у тестуванні'
+date = '2016-08-17T23:22:21+03:00'
 status: publish
 permalink: /2016/08/17/logic-in-the-testing
-author: 'В''ячеслав Клевченя'
+author = "В''ячеслав Клевченя"
 excerpt: ''
 type: post
 id: 17994

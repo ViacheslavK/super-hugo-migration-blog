@@ -1,9 +1,9 @@
 ---
-title: 'Проблеми міграції'
-date: '2015-04-07T02:40:36+03:00'
+title = 'Проблеми міграції'
+date = '2015-04-07T02:40:36+03:00'
 status: publish
 permalink: /2015/04/07/movement-problems
-author: 'В''ячеслав Клевченя'
+author = "В''ячеслав Клевченя"
 excerpt: ''
 type: post
 id: 210

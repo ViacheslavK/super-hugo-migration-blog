@@ -1,9 +1,9 @@
 ---
-title: 'Drupal 7.35 &#8211; оновлення безпеки'
-date: '2015-03-19T14:25:37+02:00'
+title = 'Drupal 7.35 &#8211; оновлення безпеки'
+date = '2015-03-19T14:25:37+02:00'
 status: publish
 permalink: /2015/03/19/drupal-7-35
-author: 'В''ячеслав Клевченя'
+author = "В''ячеслав Клевченя"
 excerpt: ''
 type: post
 id: 16849

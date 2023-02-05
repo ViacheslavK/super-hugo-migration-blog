@@ -1,9 +1,9 @@
 ---
-title: 'Про тестовий фреймворк замовте слово&#8230;'
-date: '2014-11-10T12:13:16+02:00'
+title = 'Про тестовий фреймворк замовте слово&#8230;'
+date = '2014-11-10T12:13:16+02:00'
 status: publish
 permalink: /2014/11/10/do-not-forget-to-mention-a-test-framework
-author: 'В''ячеслав Клевченя'
+author = "В''ячеслав Клевченя"
 excerpt: ''
 type: post
 id: 63

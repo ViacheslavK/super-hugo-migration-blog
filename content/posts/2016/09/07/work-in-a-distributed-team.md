@@ -1,9 +1,9 @@
 ---
-title: 'Робота у розподіленій команді'
-date: '2016-09-07T18:31:05+03:00'
+title = 'Робота у розподіленій команді'
+date = '2016-09-07T18:31:05+03:00'
 status: publish
 permalink: /2016/09/07/work-in-a-distributed-team
-author: 'В''ячеслав Клевченя'
+author = "В''ячеслав Клевченя"
 excerpt: ''
 type: post
 id: 18008
