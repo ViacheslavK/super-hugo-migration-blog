@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Viacheslav subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Travel" title="Travel">
+            <outline type="rss" text="1001 ідея бюджетних подорожей Європою" title="1001 ідея бюджетних подорожей Європою" xmlUrl="http://1001idea.info/feed/" htmlUrl="http://1001idea.info"/>
+            <outline type="rss" text="Lowcost Avia" title="Lowcost Avia" xmlUrl="http://lowcostavia.com.ua/feed/" htmlUrl="http://lowcostavia.com.ua"/>
+        </outline>
+        <outline text="Microsoft" title="Microsoft">
+            <outline type="rss" text="Microsoft Virtual Academy – Newest Courses" title="Microsoft Virtual Academy – Newest Courses" xmlUrl="http://www.microsoftvirtualacademy.com/RSS.aspx?type=newestcourses&amp;culture=ru-RU"/>
+            <outline type="rss" text="Visual Studio Code" title="Visual Studio Code" xmlUrl="http://blogs.msdn.com/b/vscode/rss.aspx" htmlUrl="http://blogs.msdn.com/b/vscode/"/>
+            <outline type="rss" text="Coding Everything" title="Coding Everything" xmlUrl="http://www.codingeverything.com/feeds/posts/default" htmlUrl="http://www.codingeverything.com/"/>
+            <outline type="rss" text=".NET Web Development and Tools Blog" title=".NET Web Development and Tools Blog" xmlUrl="http://blogs.msdn.com/webdevtools/rss.xml" htmlUrl="http://blogs.msdn.com/b/webdev/"/>
+            <outline type="rss" text="MSDN Magazine" title="MSDN Magazine" xmlUrl="http://msdn.microsoft.com/magazine/rss/default.aspx?z=z&amp;iss=1" htmlUrl="http://sxp.microsoft.com/stream/item?channelid=msdntn&amp;feedid=msdnmagazine_enus&amp;v=3&amp;z=z&amp;iss=1"/>
+            <outline type="rss" text="Channel 9" title="Channel 9" xmlUrl="http://channel9.msdn.com/Feeds/RSS" htmlUrl="https://channel9.msdn.com/"/>
+            <outline type="rss" text="Latest Microsoft Blogs" title="Latest Microsoft Blogs" xmlUrl="http://weblogs.asp.net/aspnet-team/rss.aspx" htmlUrl="http://weblogs.asp.net/aspnet-team/default.aspx"/>
+            <outline type="rss" text="ASP.NET Content" title="ASP.NET Content" xmlUrl="http://www.asp.net/News/rss.ashx" htmlUrl="http://www.asp.net"/>
+            <outline type="rss" text=".NET Blog" title=".NET Blog" xmlUrl="http://blogs.msdn.com/clrteam/rss.xml" htmlUrl="http://blogs.msdn.com/b/dotnet/"/>
+            <outline type="rss" text="The Visual Studio Blog" title="The Visual Studio Blog" xmlUrl="http://blogs.msdn.com/b/visualstudio/rss.aspx" htmlUrl="http://blogs.msdn.com/b/visualstudio/"/>
+        </outline>
+        <outline text="Google" title="Google">
+            <outline type="rss" text="Official Android Blog" title="Official Android Blog" xmlUrl="http://officialandroid.blogspot.com/feeds/posts/default" htmlUrl="http://officialandroid.blogspot.com/"/>
+            <outline type="rss" text="Android Developers Blog" title="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" htmlUrl="http://android-developers.blogspot.com/"/>
+            <outline type="rss" text="Oфіційний Блоґ" title="Oфіційний Блоґ" xmlUrl="http://google-ukraine-blog.blogspot.com/feeds/posts/default" htmlUrl="http://google-ukraine-blog.blogspot.com/"/>
+        </outline>
+        <outline text="Новости" title="Новости">
+            <outline type="rss" text="Сегодня в Северодонецке" title="Сегодня в Северодонецке" xmlUrl="http://svsever.lg.ua/news.xml" htmlUrl="http://svsever.lg.ua/"/>
+            <outline type="rss" text="Новости «Минфина»" title="Новости «Минфина»" xmlUrl="http://minfin.com.ua/data/rss/news.xml" htmlUrl="http://minfin.com.ua/"/>
+            <outline type="rss" text="FINANCE.UA" title="FINANCE.UA" xmlUrl="http://news.finance.ua/ru/rss" htmlUrl="http://finance.ua/ru/"/>
+        </outline>
+        <outline text="IT" title="IT">
+            <outline type="rss" text="Python Testing" title="Python Testing" xmlUrl="http://pythontesting.net/feed/" htmlUrl="http://pythontesting.net"/>
+            <outline type="rss" text="AIN.UA" title="AIN.UA" xmlUrl="http://feeds.feedburner.com/ainua" htmlUrl="http://ain.ua"/>
+            <outline type="rss" text="Хабрахабр / Интересные публикации" title="Хабрахабр / Интересные публикации" xmlUrl="http://www.habrahabr.ru/rss/main/" htmlUrl="http://habrahabr.ru/"/>
+            <outline type="rss" text="Интересное на ДОУ" title="Интересное на ДОУ" xmlUrl="http://www.developers.org.ua/feed/" htmlUrl="http://dou.ua/lenta/"/>
+            <outline type="rss" text="Блог Яндекса" title="Блог Яндекса" xmlUrl="http://clubs.ya.ru/company/rss/posts.xml" htmlUrl="http://clubs.ya.ru/company/"/>
+            <outline type="rss" text="Obey the Testing Goat!" title="Obey the Testing Goat!" xmlUrl="http://www.obeythetestinggoat.com/feeds/all.atom.xml" htmlUrl="http://www.obeythetestinggoat.com/"/>
+            <outline type="rss" text="Типичный программист" title="Типичный программист" xmlUrl="http://tproger.ru/feed/" htmlUrl="http://tproger.ru"/>
+            <outline type="rss" text="Geektimes / Все / Тематические публикации" title="Geektimes / Все / Тематические публикации" xmlUrl="http://geektimes.ru/rss/hubs/all/" htmlUrl="http://geektimes.ru/posts/collective/all/"/>
+            <outline type="rss" text="Мегамозг / Интересные публикации" title="Мегамозг / Интересные публикации" xmlUrl="http://megamozg.ru/rss/" htmlUrl="http://megamozg.ru/"/>
+            <outline type="rss" text="WordPress | Русский" title="WordPress | Русский" xmlUrl="http://ru.wordpress.org/feed/" htmlUrl="https://ru.wordpress.org"/>
+            <outline type="rss" text="dev.by: Все о работе в IT" title="dev.by: Все о работе в IT" xmlUrl="http://feeds.feedburner.com/DevbyBlog" htmlUrl="https://dev.by/rss"/>
+        </outline>
+        <outline text="Security" title="Security">
+            <outline type="rss" text="Новости информационной безопасности" title="Новости информационной безопасности" xmlUrl="http://www.anti-malware.ru/news/feed" htmlUrl="http://www.anti-malware.ru/news"/>
+            <outline type="rss" text="Синдром сапожника" title="Синдром сапожника" xmlUrl="http://inf-sec.blogspot.com/feeds/posts/default" htmlUrl="http://inf-sec.blogspot.com/"/>
+            <outline type="rss" text="Securitylab.ru" title="Securitylab.ru" xmlUrl="http://www.securitylab.ru/_Services/Export/RSS/" htmlUrl="http://www.securitylab.ru"/>
+            <outline type="rss" text="Раздел Безопасность портала CNews" title="Раздел Безопасность портала CNews" xmlUrl="http://www.cnews.ru/inc/rss/safe_rss.xml" htmlUrl="http://safe.cnews.ru/"/>
+            <outline type="rss" text="Securelist" title="Securelist" xmlUrl="http://www.securelist.com/ru/rss/allupdates" htmlUrl="https://securelist.ru"/>
+            <outline type="rss" text="Утечки информации и внутренние угрозы" title="Утечки информации и внутренние угрозы" xmlUrl="http://infowatch.livejournal.com/data/rss" htmlUrl="http://infowatch.livejournal.com/"/>
+            <outline type="rss" text="uinС: Новости компьютерной безопасности" title="uinС: Новости компьютерной безопасности" xmlUrl="http://www.uinc.ru/news/rss/main.rss" htmlUrl="http://uinc.ru/"/>
+            <outline type="rss" text="VSLA - Virtual Security Labs Anywhere" title="VSLA - Virtual Security Labs Anywhere" xmlUrl="http://firebitsbr.wordpress.com/feed/" htmlUrl="https://firebitsbr.wordpress.com"/>
+            <outline type="rss" text="Securityvulns news channel" title="Securityvulns news channel" xmlUrl="http://securityvulns.ru/informer/rss.asp" htmlUrl="http://securityvulns.ru/"/>
+            <outline type="rss" text="DefconRU" title="DefconRU" xmlUrl="https://defcon.ru/feed" htmlUrl="https://defcon.ru"/>
+            <outline type="rss" text="Kaspersky.ru" title="Kaspersky.ru" xmlUrl="http://www.kaspersky.ru/rss/news" htmlUrl="http://www.kaspersky.ru/rss/news"/>
+            <outline type="rss" text="«Хакер»" title="«Хакер»" xmlUrl="https://xakep.ru/feed/" htmlUrl="https://xakep.ru"/>
+        </outline>
+        <outline text="Friends" title="Friends">
+            <outline type="rss" text="less is more" title="less is more" xmlUrl="http://lukianets.tumblr.com/rss" htmlUrl="http://lukianets.tumblr.com/"/>
+            <outline type="rss" text="«Зеленый туризм» — Организация и проведение пеших горных походов по Крыму, Карпатам, Кавказу, Турции и Непалу" title="«Зеленый туризм» — Организация и проведение пеших горных походов по Крыму, Карпатам, Кавказу, Турции и Непалу" xmlUrl="http://green-travel.biz/rss/" htmlUrl="http://green-travel.biz/"/>
+            <outline type="rss" text="Большие планы" title="Большие планы" xmlUrl="http://bigplans.megaplan.ru/feed" htmlUrl="https://thebigplans.ru"/>
+            <outline type="rss" text="Главное ♥ внутри" title="Главное ♥ внутри" xmlUrl="http://tetrom.blogspot.com/feeds/posts/default" htmlUrl="http://tetrom.blogspot.com/"/>
+            <outline type="rss" text="Новые записи в блогах" title="Новые записи в блогах" xmlUrl="http://ctown.com.ua/rss/blogs/all/feed.rss" htmlUrl="http://ctown.com.ua"/>
+            <outline type="rss" text="бодибилдинг упражнения" title="бодибилдинг упражнения" xmlUrl="http://fit4life.ru/feed" htmlUrl="http://www.fit4life.ru"/>
+            <outline type="rss" text="Idle thoughts of Common Racoon" title="Idle thoughts of Common Racoon" xmlUrl="http://common-racoon.livejournal.com/data/rss" htmlUrl="http://common-racoon.livejournal.com/"/>
+        </outline>
+    </body>
+</opml>

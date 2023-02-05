@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Viacheslav subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Testing" title="Testing">
+            <outline type="rss" text="Where Worlds Collide" title="Where Worlds Collide" xmlUrl="http://www.kalyr.com/weblog/feed/" htmlUrl="http://www.kalyr.com/weblog"/>
+            <outline type="rss" text="Patterns of Proof" title="Patterns of Proof" xmlUrl="http://patternsofproof.wordpress.com/feed/" htmlUrl="https://patternsofproof.wordpress.com"/>
+            <outline type="rss" text="Gerrard Consulting blogs" title="Gerrard Consulting blogs" xmlUrl="http://gerrardconsulting.com/blog/feed" htmlUrl="http://gerrardconsulting.com/?q=blog"/>
+            <outline type="rss" text="Stephen Janaway" title="Stephen Janaway" xmlUrl="http://stephenjanaway.co.uk/feed/" htmlUrl="http://stephenjanaway.co.uk/stephenjanaway"/>
+            <outline type="rss" text="Testing the Mind" title="Testing the Mind" xmlUrl="http://testingthemind.wordpress.com/feed/" htmlUrl="https://testingthemind.wordpress.com"/>
+            <outline type="rss" text="Maverick Tester" title="Maverick Tester" xmlUrl="http://feeds.feedburner.com/testingtimeswordpress" htmlUrl="http://mavericktester.com"/>
+            <outline type="rss" text="Test Pappy" title="Test Pappy" xmlUrl="http://testpappy.wordpress.com/feed/" htmlUrl="https://testpappy.wordpress.com"/>
+            <outline type="rss" text="Tooth of the Weasel" title="Tooth of the Weasel" xmlUrl="http://angryweasel.com/blog/?feed=rss2" htmlUrl="http://angryweasel.com/blog"/>
+            <outline type="rss" text="Pipes Output" title="Pipes Output" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a6cdaf1d9dbe656ba1f0ab714cc3a08e&amp;_render=rss" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=a6cdaf1d9dbe656ba1f0ab714cc3a08e"/>
+            <outline type="rss" text="Google Testing Blog" title="Google Testing Blog" xmlUrl="http://googletesting.blogspot.com/feeds/posts/default" htmlUrl="http://googletesting.blogspot.com/"/>
+            <outline type="rss" text="Тестирование. Все про автоматизированные, нагрузочные, ручные тесты. Все про обеспечение и контроль качества" title="Тестирование. Все про автоматизированные, нагрузочные, ручные тесты. Все про обеспечение и контроль качества" xmlUrl="http://alexeybulat.blogspot.com/feeds/posts/default" htmlUrl="http://alexeybulat.blogspot.com/"/>
+            <outline type="rss" text="Automation Beyond" title="Automation Beyond" xmlUrl="http://automation-beyond.com/feed/" htmlUrl="http://automation-beyond.com"/>
+            <outline type="rss" text="LoadStorm" title="LoadStorm" xmlUrl="http://loadstorm.com/rss.xml" htmlUrl="http://loadstorm.com"/>
+            <outline type="rss" text="Derk-Jan de Grood" title="Derk-Jan de Grood" xmlUrl="http://djdegrood.wordpress.com/feed/" htmlUrl="https://djdegrood.wordpress.com"/>
+            <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="http://martinfowler.com/bliki/bliki.atom" htmlUrl="http://martinfowler.com"/>
+            <outline type="rss" text="Gil Zilberfeld" title="Gil Zilberfeld" xmlUrl="http://feeds.feedburner.com/gilzilberfeld" htmlUrl="http://www.gilzilberfeld.com"/>
+            <outline type="rss" text="The Adventures of TestKiwi" title="The Adventures of TestKiwi" xmlUrl="http://testerkiwi.blogspot.com/feeds/posts/default" htmlUrl="http://testerkiwi.blogspot.com/"/>
+            <outline type="rss" text="The Pain and Gain of Edward Bear" title="The Pain and Gain of Edward Bear" xmlUrl="http://thepainandgainofedwardbear.wordpress.com/feed/" htmlUrl="https://thepainandgainofedwardbear.wordpress.com"/>
+            <outline type="rss" text="Gerald Weinberg's Secrets of Writing and Consulting" title="Gerald Weinberg's Secrets of Writing and Consulting" xmlUrl="http://secretsofconsulting.blogspot.com/feeds/posts/default" htmlUrl="http://secretsofconsulting.blogspot.com/"/>
+            <outline type="rss" text="Joe Colantonio" title="Joe Colantonio" xmlUrl="http://feeds.feedburner.com/JoeColantonio" htmlUrl="http://www.joecolantonio.com"/>
+            <outline type="rss" text="Testing FTW!" title="Testing FTW!" xmlUrl="http://testing4tw.blogspot.com/feeds/posts/default" htmlUrl="http://testing4tw.blogspot.com/"/>
+            <outline type="rss" text="Testing is believing" title="Testing is believing" xmlUrl="http://testingisbelieving.blogspot.com/feeds/posts/default" htmlUrl="http://testingisbelieving.blogspot.com/"/>
+            <outline type="rss" text="Rhythm of Testing" title="Rhythm of Testing" xmlUrl="http://rhythmoftesting.blogspot.com/feeds/posts/default" htmlUrl="http://rhythmoftesting.blogspot.com/"/>
+            <outline type="rss" text="Curious Tester" title="Curious Tester" xmlUrl="http://curioustester.blogspot.com/feeds/posts/default" htmlUrl="http://curioustester.blogspot.com/"/>
+            <outline type="rss" text="Mostly testing" title="Mostly testing" xmlUrl="http://www.mostly-testing.co.uk/feed" htmlUrl="http://www.mostly-testing.co.uk"/>
+            <outline type="rss" text="The Test Doctor" title="The Test Doctor" xmlUrl="http://thetestdoctor.wordpress.com/feed/" htmlUrl="https://thetestdoctor.wordpress.com"/>
+            <outline type="rss" text="Developsense Blog" title="Developsense Blog" xmlUrl="http://www.developsense.com/blog/atom.xml" htmlUrl="http://www.developsense.com/blog"/>
+            <outline type="rss" text="The Tester's Headache" title="The Tester's Headache" xmlUrl="http://testers-headache.blogspot.com/feeds/posts/default" htmlUrl="http://testers-headache.blogspot.com/"/>
+            <outline type="rss" text="Hiccupps" title="Hiccupps" xmlUrl="http://qahiccupps.blogspot.com/feeds/posts/default" htmlUrl="http://qahiccupps.blogspot.com/"/>
+            <outline type="rss" text="Блог Ленивого Тестировщика" title="Блог Ленивого Тестировщика" xmlUrl="http://lazy-tester.blogspot.com/feeds/posts/default" htmlUrl="http://lazy-tester.blogspot.com/"/>
+            <outline type="rss" text="Test Adventures" title="Test Adventures" xmlUrl="http://erik.brickarp.se/feeds/posts/default" htmlUrl="http://erik.brickarp.se/"/>
+            <outline type="rss" text="TestSheepNZ" title="TestSheepNZ" xmlUrl="http://testsheepnz.blogspot.com/feeds/posts/default" htmlUrl="http://testsheepnz.blogspot.com/"/>
+            <outline type="rss" text="Anders Dinsen on software testing and development" title="Anders Dinsen on software testing and development" xmlUrl="http://blog.asym.dk/feed/" htmlUrl="http://blog.asym.dk"/>
+            <outline type="rss" text="Excelon Development" title="Excelon Development" xmlUrl="http://xndev.com/feed/" htmlUrl="http://xndev.com"/>
+            <outline type="rss" text="Software Testing" title="Software Testing" xmlUrl="http://www.a-sisyphean-task.com/feeds/posts/default" htmlUrl="http://www.a-sisyphean-task.com/"/>
+            <outline type="rss" text="Nicky Tests Software" title="Nicky Tests Software" xmlUrl="http://nickytests.blogspot.com/feeds/posts/default" htmlUrl="http://nickytests.blogspot.com/"/>
+            <outline type="rss" text="VWO Blog" title="VWO Blog" xmlUrl="http://feeds.feedburner.com/ILoveSplitTesting" htmlUrl="https://vwo.com/blog"/>
+            <outline type="rss" text="Seth Eliot's Blog" title="Seth Eliot's Blog" xmlUrl="http://www.setheliot.com/blog/feed/" htmlUrl="http://www.setheliot.com/blog"/>
+            <outline type="rss" text="Neil Studd" title="Neil Studd" xmlUrl="http://blog.neiltest.com/rss/" htmlUrl="http://blog.neiltest.com/"/>
+            <outline type="rss" text="QA Intelligence" title="QA Intelligence" xmlUrl="http://feeds.feedburner.com/QA-Intelligence-a-QABlog" htmlUrl="http://qablog.practitest.com"/>
+            <outline type="rss" text="A Seasoned Tester's Crystal Ball" title="A Seasoned Tester's Crystal Ball" xmlUrl="http://visible-quality.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://visible-quality.blogspot.com/"/>
+            <outline type="rss" text="Is it good enough yet?" title="Is it good enough yet?" xmlUrl="http://isitgoodenoughyet.com/feed/" htmlUrl="http://isitgoodenoughyet.com"/>
+            <outline type="rss" text="Selenium Testing? Do Cross Browser Testing with Sauce Labs" title="Selenium Testing? Do Cross Browser Testing with Sauce Labs" xmlUrl="http://feeds.feedburner.com/SauceLabs" htmlUrl="http://sauceio.com"/>
+            <outline type="rss" text="Perze Ababa" title="Perze Ababa" xmlUrl="http://feeds.feedburner.com/PerzeBlogSpot" htmlUrl="http://perze.blogspot.com/"/>
+            <outline type="rss" text="James Christie's Blog" title="James Christie's Blog" xmlUrl="http://clarotesting.wordpress.com/feed/" htmlUrl="https://clarotesting.wordpress.com"/>
+            <outline type="rss" text="Test This Blog" title="Test This Blog" xmlUrl="http://www.testthisblog.com/feeds/posts/default" htmlUrl="http://www.testthisblog.com/"/>
+            <outline type="rss" text="Dan Ashby" title="Dan Ashby" xmlUrl="http://danashby04.wordpress.com/feed/" htmlUrl="https://danashby04.wordpress.com"/>
+            <outline type="rss" text="Testing the Waterhouse" title="Testing the Waterhouse" xmlUrl="http://www.testingthewaterhouse.com/feeds/posts/default" htmlUrl="http://www.testingthewaterhouse.com/"/>
+            <outline type="rss" text="Testing Bites" title="Testing Bites" xmlUrl="http://www.tnridgeback.com/feeds/posts/default" htmlUrl="http://www.tnridgeback.com/"/>
+            <outline type="rss" text="Arborosa" title="Arborosa" xmlUrl="http://arborosa.org/feed/" htmlUrl="http://arborosa.org"/>
+            <outline type="rss" text="The expected result was 42. Now what was the test?" title="The expected result was 42. Now what was the test?" xmlUrl="http://steveo1967.blogspot.com/feeds/posts/default" htmlUrl="http://steveo1967.blogspot.com/"/>
+            <outline type="rss" text="tales of a fellow tester" title="tales of a fellow tester" xmlUrl="http://jokinaspiazu.blogspot.com/feeds/posts/default" htmlUrl="http://jokinaspiazu.blogspot.com/"/>
+            <outline type="rss" text="No Automated Testing" title="No Automated Testing" xmlUrl="http://www.seleniumtests.com/feeds/posts/default" htmlUrl="http://www.seleniumtests.com/"/>
+            <outline type="rss" text="Dhanasekar S" title="Dhanasekar S" xmlUrl="http://testingideas.wordpress.com/feed/" htmlUrl="https://testingideas.wordpress.com"/>
+            <outline type="rss" text="A Testers Odyssee" title="A Testers Odyssee" xmlUrl="http://hanseatictester.info/?feed=rss2" htmlUrl="http://hanseatictester.info"/>
+            <outline type="rss" text="Rob Lambert" title="Rob Lambert" xmlUrl="http://feeds.feedburner.com/TheSocialTester" htmlUrl="http://thesocialtester.co.uk"/>
+            <outline type="rss" text="Creative Tester" title="Creative Tester" xmlUrl="http://anujmagazine.blogspot.com/feeds/posts/default" htmlUrl="http://anujmagazine.blogspot.com/"/>
+            <outline type="rss" text="Chronicles Of Testing" title="Chronicles Of Testing" xmlUrl="http://chroniclesoftesting.blogspot.com/feeds/posts/default" htmlUrl="http://chroniclesoftesting.blogspot.com/"/>
+            <outline type="rss" text="Marlena's Blog" title="Marlena's Blog" xmlUrl="http://marlenacompton.com/?feed=rss2" htmlUrl="http://marlenacompton.com"/>
+            <outline type="rss" text="Gojko Adzic" title="Gojko Adzic" xmlUrl="http://gojko.net/feed/" htmlUrl="http://gojko.net"/>
+            <outline type="rss" text="Just Test It!" title="Just Test It!" xmlUrl="http://vestfalka.blogspot.com/feeds/posts/default" htmlUrl="http://vestfalka.blogspot.com/"/>
+            <outline type="rss" text="Knowledge Tester" title="Knowledge Tester" xmlUrl="http://knowledgetester.org/feed/" htmlUrl="http://knowledgetester.org"/>
+            <outline type="rss" text="Danny Dainton" title="Danny Dainton" xmlUrl="http://dannydainton.com/feed/" htmlUrl="http://dannydainton.com"/>
+            <outline type="rss" text="Katrina the Tester" title="Katrina the Tester" xmlUrl="http://katrinatester.blogspot.com/feeds/posts/default" htmlUrl="http://katrinatester.blogspot.com/"/>
+            <outline type="rss" text="Testing Excellence" title="Testing Excellence" xmlUrl="http://feeds.feedburner.com/testingexcellence" htmlUrl="http://www.testingexcellence.com"/>
+            <outline type="rss" text="testjutsu" title="testjutsu" xmlUrl="http://testjutsu.com/feed/" htmlUrl="http://testjutsu.com"/>
+            <outline type="rss" text="Software Testing to Software Test Engineering" title="Software Testing to Software Test Engineering" xmlUrl="https://vipulgupta1.wordpress.com/feed/" htmlUrl="https://vipulgupta1.wordpress.com"/>
+        </outline>
+        <outline text="Testing Community" title="Testing Community">
+            <outline type="rss" text="OpenQuality.ru" title="OpenQuality.ru" xmlUrl="http://feeds.feedburner.com/OpenQuality" htmlUrl="http://blog.openquality.ru"/>
+            <outline type="rss" text="COMAQA.BY - QA Automation Community Belarus » Languages » Русский" title="COMAQA.BY - QA Automation Community Belarus » Languages » Русский" xmlUrl="http://comaqa.by/feed/" htmlUrl="https://comaqa.by"/>
+            <outline type="rss" text="JetBrains News" title="JetBrains News" xmlUrl="http://www.jetbrains.com/rss.xml" htmlUrl="http://www.jetbrains.com/allnews.html"/>
+            <outline type="rss" text="[QAHelp]" title="[QAHelp]" xmlUrl="http://qahelp.net/feed/" htmlUrl="http://qahelp.net"/>
+            <outline type="rss" text="StickyMinds" title="StickyMinds" xmlUrl="http://feeds.feedburner.com/AllStickyMindsFeeds" htmlUrl="http://www.stickyminds.com/rss-cmcrossroads"/>
+            <outline type="rss" text="Software Testing  Tutorials and Videos" title="Software Testing  Tutorials and Videos" xmlUrl="http://www.testingtv.com/feed/" htmlUrl="http://www.testingtv.com"/>
+            <outline type="rss" text="QA Club Kiev" title="QA Club Kiev" xmlUrl="http://feeds.feedburner.com/QAClubKiev" htmlUrl="http://www.qaclubkiev.com/"/>
+            <outline type="rss" text="SPB SQA Group" title="SPB SQA Group" xmlUrl="http://feeds.feedburner.com/SpbSqaGroup" htmlUrl="http://sqagroup.spb.ru"/>
+            <outline type="rss" text="QA Journal" title="QA Journal" xmlUrl="http://feeds.feedburner.com/blog_bughuntress/feed" htmlUrl="http://blog.bughuntress.com"/>
+            <outline type="rss" text="TESTHEAD" title="TESTHEAD" xmlUrl="http://www.mkltesthead.com/feeds/posts/default" htmlUrl="http://www.mkltesthead.com/"/>
+            <outline type="rss" text="Independent Software Testers" title="Independent Software Testers" xmlUrl="http://blog.qatestlab.com/feed/" htmlUrl="http://blog.qatestlab.com"/>
+            <outline type="rss" text="Software Testing Blog" title="Software Testing Blog" xmlUrl="http://feeds.feedburner.com/UtestBlog" htmlUrl="http://blog.utest.com"/>
+            <outline type="rss" text="Blogs - Testing &amp; ALM" title="Blogs - Testing &amp; ALM" xmlUrl="http://feeds.feedburner.com/TestStudio" htmlUrl="http://www.telerik.com/"/>
+            <outline type="rss" text="Adventures in QA" title="Adventures in QA" xmlUrl="http://adventuresinqa.com/feed/" htmlUrl="http://adventuresinqa.com"/>
+            <outline type="rss" text="Software-Testing.Ru Blog Aggregator" title="Software-Testing.Ru Blog Aggregator" xmlUrl="http://feeds.feedburner.com/RussianTestingBlogs50" htmlUrl="http://software-testing.ru/"/>
+            <outline type="rss" text="Ministry of Testing" title="Ministry of Testing" xmlUrl="http://feeds.feedburner.com/MinistryOfTesting" htmlUrl="http://www.ministryoftesting.com"/>
+            <outline type="rss" text="Road To Automation" title="Road To Automation" xmlUrl="http://roadtoautomation.blogspot.com/feeds/posts/default" htmlUrl="http://roadtoautomation.blogspot.com/"/>
+            <outline type="rss" text="Software Testing Magazine" title="Software Testing Magazine" xmlUrl="http://www.softwaretestingmagazine.com/feed/" htmlUrl="http://www.softwaretestingmagazine.com"/>
+            <outline type="rss" text="QAClub" title="QAClub" xmlUrl="http://qaclub.com.ua/feed/" htmlUrl="http://qaclub.com.ua"/>
+            <outline type="rss" text="Association for Software Testing" title="Association for Software Testing" xmlUrl="http://www.associationforsoftwaretesting.org/feed/" htmlUrl="http://www.associationforsoftwaretesting.org"/>
+            <outline type="rss" text="QA Club Minsk » Блог" title="QA Club Minsk » Блог" xmlUrl="http://www.qaclub.by/blog/feed/" htmlUrl="http://www.qaclub.by"/>
+            <outline type="rss" text="Software Quality Matters Blog" title="Software Quality Matters Blog" xmlUrl="http://feeds.feedburner.com/smartbear" htmlUrl="http://blog.smartbear.com"/>
+        </outline>
+        <outline text="Testing Gurus" title="Testing Gurus">
+            <outline type="rss" text="Official Selenium Blog" title="Official Selenium Blog" xmlUrl="http://feeds.feedburner.com/Selenium" htmlUrl="https://seleniumhq.wordpress.com"/>
+            <outline type="rss" text="iTesting" title="iTesting" xmlUrl="http://itesting.com.au/feed/" htmlUrl="http://itesting.com.au"/>
+            <outline type="rss" text="DZis is a Test" title="DZis is a Test" xmlUrl="http://blog.zhariy.com/feeds/posts/default" htmlUrl="http://blog.zhariy.com/"/>
+            <outline type="rss" text="Markus Gärtner" title="Markus Gärtner" xmlUrl="http://www.shino.de/feed/" htmlUrl="http://www.shino.de"/>
+            <outline type="rss" text="Cem Kaner, J.D., Ph.D." title="Cem Kaner, J.D., Ph.D." xmlUrl="http://kaner.com/?feed=rss2" htmlUrl="http://kaner.com"/>
+            <outline type="rss" text="James Bach’s Blog" title="James Bach’s Blog" xmlUrl="http://www.satisfice.com/blog/feed" htmlUrl="http://www.satisfice.com/blog"/>
+            <outline type="rss" text="WatirMelon" title="WatirMelon" xmlUrl="http://watirmelon.com/feed/" htmlUrl="http://watirmelon.com"/>
+            <outline type="rss" text="All Things Quality" title="All Things Quality" xmlUrl="http://www.allthingsquality.com/feeds/posts/default?alt=rss" htmlUrl="http://www.allthingsquality.com/"/>
+            <outline type="rss" text="The Automated Tester" title="The Automated Tester" xmlUrl="http://feeds.theautomatedtester.co.uk/TheAutomatedTester" htmlUrl="http://www.theautomatedtester.co.uk/"/>
+            <outline type="rss" text="Software Testing Help" title="Software Testing Help" xmlUrl="http://www.softwaretestinghelp.com/feed/" htmlUrl="http://www.softwaretestinghelp.com"/>
+            <outline type="rss" text="Agile Testing with Lisa Crispin" title="Agile Testing with Lisa Crispin" xmlUrl="http://lisacrispin.com/feed/" htmlUrl="http://lisacrispin.com"/>
+            <outline type="rss" text="QA — грамотно" title="QA — грамотно" xmlUrl="http://testitquickly.com/feed/" htmlUrl="http://testitquickly.com"/>
+        </outline>
+    </body>
+</opml>
