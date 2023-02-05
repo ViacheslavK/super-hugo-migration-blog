@@ -2,7 +2,7 @@
 title = '&#8220;Testing&#8221; what is it? (by Michael Bolton)'
 date = '2014-10-29T15:24:24+02:00'
 author = "В'ячеслав Клевченя"
-category = ['тестування']
+categories = ['тестування']
 tags = ['Тестування']
 +++
 ## Testing can means different

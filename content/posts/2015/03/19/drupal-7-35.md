@@ -1,19 +1,9 @@
 +++
 title = 'Drupal 7.35 &#8211; оновлення безпеки'
 date = '2015-03-19T14:25:37+02:00'
-
-
 author = "В'ячеслав Клевченя"
-
-type: post
-
-category:
-    - 'веб додатки'
-tag:
-    - Drupal
-post_format: []
-dsq_thread_id:
-    - '3631434797'
+categories = ['веб додатки']
+tags = ['Drupal']
 +++
 Вийшло оновлення Drupal 7.35, яке включає фікси безпеки.
 

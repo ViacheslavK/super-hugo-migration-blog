@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 20
+paginate = 10
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -62,10 +62,6 @@ paginate = 20
       logoHomeLink = "/"
 
     [languages.en.menu]
-      # [[languages.en.menu.main]]
-      #   identifier = "about"
-      #   name = "About"
-      #   url = "/about"
       [[languages.en.menu.main]]
         identifier = "cv"
         name = "Lead SDET/QA Automation Engineer"

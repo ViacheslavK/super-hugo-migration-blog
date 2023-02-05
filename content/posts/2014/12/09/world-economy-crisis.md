@@ -1,20 +1,9 @@
 +++
 title = 'Криза у світовій економіці?'
 date = '2014-12-09T10:05:03+02:00'
-
-
 author = "В'ячеслав Клевченя"
-
-type: post
-
-category:
-    - управління
-tag:
-    - Обучение
-    - Управление
-post_format: []
-dsq_thread_id:
-    - '4039959371'
+categories = ['управління']
+tags = ['Обучение','Управление']
 +++
 <div class="wp-caption alignnone" id="attachment_16863" style="width: 310px">[![Криза](https://i0.wp.com/slavaqa.pp.ua/wp-content/uploads/2014/12/%D0%B2%E2%80%A2%D0%81%D0%A0%D0%84%D0%B2%E2%80%A2%C2%A4%D0%A0%D1%92%D0%B2%E2%80%A2%D0%81%D0%B2%E2%80%A2%E2%80%A2%D0%B2%E2%80%A2%D0%81%D0%B2%E2%80%A2%E2%80%93%D0%B2%E2%80%A2%D0%81%D0%B2%E2%80%A2%E2%80%A2%D0%B2%E2%80%A2%C2%A4%D0%A0%E2%80%981-300x2381-300x238-300x238.jpg?resize=300%2C238&ssl=1)](https://i0.wp.com/slavaqa.pp.ua/wp-content/uploads/2014/12/%D0%B2%E2%80%A2%D0%81%D0%A0%D0%84%D0%B2%E2%80%A2%C2%A4%D0%A0%D1%92%D0%B2%E2%80%A2%D0%81%D0%B2%E2%80%A2%E2%80%A2%D0%B2%E2%80%A2%D0%81%D0%B2%E2%80%A2%E2%80%93%D0%B2%E2%80%A2%D0%81%D0%B2%E2%80%A2%E2%80%A2%D0%B2%E2%80%A2%C2%A4%D0%A0%E2%80%981-300x2381-300x238.jpg)Криза!!!
 
