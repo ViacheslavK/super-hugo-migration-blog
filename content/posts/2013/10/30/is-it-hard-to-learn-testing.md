@@ -13,5 +13,3 @@ tags = ['Книга','Навчання','Тестування']
 <div class="wp-caption alignnone" style="width: 210px">![научиться тестированию](https://i0.wp.com/mmedia.ozone.ru/multimedia/books_covers/c300/1002094900.jpg?resize=200%2C251)Тестування ASP.NET веб-додатків
 
 </div>[ ](http://www.ozon.ru/context/detail/id/5623854/?partner=kvis_oz&from=bar)
-
-<div id="gtx-trans" style="position: absolute; left: 45px; top: 446.328px;"><div class="gtx-trans-icon"></div></div>
