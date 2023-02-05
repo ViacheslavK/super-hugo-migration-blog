@@ -1,12 +1,12 @@
 ---
 title = '&#8220;Testing&#8221; what is it? (by Michael Bolton)'
 date = '2014-10-29T15:24:24+02:00'
-status: publish
-permalink: /2014/10/29/testing-is
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 65
+
 thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
 category:
     - тестування

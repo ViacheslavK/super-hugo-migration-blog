@@ -1,12 +1,12 @@
 +++
 title = 'Користь SQL або &#8220;де його взяти?&#8221;'
 date = '2013-10-02T14:22:11+03:00'
-status: publish
-permalink: /2013/10/02/sql-benefits-or-how-to-get-them
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 55
+
 thumbnail: ../../../../../uploads/2013/10/Microsoft-SQL-Server1.jpg
 category:
     - інструменти

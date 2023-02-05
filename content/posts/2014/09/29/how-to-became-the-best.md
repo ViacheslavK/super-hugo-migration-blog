@@ -1,12 +1,12 @@
 ---
 title = 'Алгоритм Успіху: Як Стати Найкращим'
 date = '2014-09-29T16:33:43+03:00'
-status: publish
-permalink: /2014/09/29/how-to-became-the-best
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 67
+
 thumbnail: ../../../../../uploads/2014/09/H-EFPTT5H-o1.jpg
 category:
     - управління

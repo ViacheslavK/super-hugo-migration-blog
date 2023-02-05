@@ -1,12 +1,12 @@
 ---
 title = 'Джентльменський набір плагінів у WordPress'
 date = '2015-03-12T02:27:19+02:00'
-status: publish
-permalink: /2015/03/12/wordpress-plugins-suite-for-the-getleman
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 29
+
 thumbnail: ../../../../../uploads/2015/03/wmail-wordpress-rassyilka1.jpg
 category:
     - 'веб додатки'

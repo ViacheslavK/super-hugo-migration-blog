@@ -1,12 +1,12 @@
 +++
 title = 'Чи складно навчитися тестуванню?'
 date = '2013-10-30T13:49:46+02:00'
-status: publish
-permalink: /2013/10/30/is-it-hard-to-learn-testing
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 61
+
 thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
 category:
     - тестування

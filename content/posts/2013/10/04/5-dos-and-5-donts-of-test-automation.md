@@ -1,12 +1,12 @@
 +++
 title = '5 do&#8217;s and 5 don&#8217;ts автоматизації тестування'
 date = '2013-10-04T10:27:23+03:00'
-status: publish
-permalink: /2013/10/04/5-dos-and-5-donts-of-test-automation
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+: /2013/10/04/5-dos-and-5-donts-of-test-automation
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 57
+
 thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
 category:
     - 'автоматичні тести'

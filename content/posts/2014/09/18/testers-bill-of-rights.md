@@ -1,12 +1,12 @@
 +++
 title = 'Білль о Правах Тестувальника'
 date = '2014-09-18T10:15:16+03:00'
-status: publish
-permalink: /2014/09/18/testers-bill-of-rights
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 71
+
 thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
 category:
     - тестування

@@ -1,12 +1,12 @@
 +++
 title = 'Попрошу розповісти те, чого у Вас немає в резюме'
 date = '2013-12-16T18:13:22+02:00'
-status: publish
-permalink: /2013/12/16/please-tell-something-that-not-included-to-your-cv
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 82
+
 thumbnail: ../../../../../uploads/2014/12/в•ЁРЄв•¤Рђв•Ёв••в•Ёв•–в•Ёв••в•¤Р‘1-300x2381-300x238.jpg
 category:
     - різне

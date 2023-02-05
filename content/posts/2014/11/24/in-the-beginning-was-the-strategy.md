@@ -1,12 +1,12 @@
 ---
 title = 'Спочатку була стратегія&#8230;'
 date = '2014-11-24T01:17:19+02:00'
-status: publish
-permalink: /2014/11/24/in-the-beginning-was-the-strategy
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 69
+
 thumbnail: ../../../../../uploads/2014/09/145158_700.jpg
 category:
     - тестування

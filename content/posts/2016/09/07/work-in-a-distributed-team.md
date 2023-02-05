@@ -1,12 +1,12 @@
 ---
 title = 'Робота у розподіленій команді'
 date = '2016-09-07T18:31:05+03:00'
-status: publish
-permalink: /2016/09/07/work-in-a-distributed-team
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 18008
+
 thumbnail: ../../../../../uploads/2015/08/cropped-bug1.jpg
 category:
     - управління

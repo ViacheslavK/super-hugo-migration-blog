@@ -1,12 +1,12 @@
 +++
 title = 'З Новим 2014 Роком!'
 date = '2013-12-26T17:20:28+02:00'
-status: publish
-permalink: /2013/12/26/new-year-2014
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 84
+
 thumbnail: ../../../../../uploads/2013/12/shivb1bJSDA1.jpg
 category:
     - різне

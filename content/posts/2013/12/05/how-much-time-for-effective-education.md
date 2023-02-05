@@ -1,12 +1,12 @@
 +++
 title = 'Скільки часу варто витратити на ефективне навчання?'
 date = '2013-12-05T12:08:02+02:00'
-status: publish
-permalink: /2013/12/05/how-much-time-for-effective-education
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 78
+
 thumbnail: ../../../../../uploads/2014/09/145158_700.jpg
 category:
     - управління

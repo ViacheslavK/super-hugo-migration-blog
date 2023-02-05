@@ -1,12 +1,12 @@
 ---
 title = 'Проблеми міграції'
 date = '2015-04-07T02:40:36+03:00'
-status: publish
-permalink: /2015/04/07/movement-problems
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 210
+
 thumbnail: ../../../../../uploads/2015/03/wmail-wordpress-rassyilka1.jpg
 category:
     - 'веб додатки'

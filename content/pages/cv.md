@@ -1,6 +1,6 @@
 +++
-title = 'Lead SDET/QA Automation Engineer'
-date = '2013-08-26T17:11:37+03:00'
+title = "Lead SDET/QA Automation Engineer"
+date = "2013-08-26T17:11:37+03:00"
 author = "В'ячеслав Клевченя"
 +++
 

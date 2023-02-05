@@ -1,12 +1,12 @@
 ---
 title = 'Ким будуть Ваші діти, Пані та Панове тестувальники?'
 date = '2014-11-24T08:38:48+02:00'
-status: publish
-permalink: /2014/11/24/children-of-qas
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 93
+
 thumbnail: ../../../../../uploads/2014/11/test_icon1.jpg
 category:
     - різне

@@ -1,12 +1,12 @@
 ---
 title = 'Drupal 7.35 &#8211; оновлення безпеки'
 date = '2015-03-19T14:25:37+02:00'
-status: publish
-permalink: /2015/03/19/drupal-7-35
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 16849
+
 thumbnail: ../../../../../uploads/2015/03/drupal-tips1-300x209.png
 category:
     - 'веб додатки'

@@ -1,12 +1,12 @@
 ---
 title = 'Вести блог про тестування. Складно?'
 date = '2016-09-27T10:05:58+03:00'
-status: publish
-permalink: /2016/09/27/difficulties-of-blog-about-testing
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 18013
+
 thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
 category:
     - управління

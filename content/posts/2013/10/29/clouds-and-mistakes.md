@@ -1,12 +1,12 @@
 ---
 title = 'Помилки та Хмарки'
 date = '2013-10-29T11:41:23+02:00'
-status: publish
-permalink: /2013/10/29/clouds-and-mistakes
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+: /2013/10/29/clouds-and-mistakes
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 59
+
 thumbnail: ../../../../../uploads/2013/10/download-150x921.jpg
 category:
     - інструменти

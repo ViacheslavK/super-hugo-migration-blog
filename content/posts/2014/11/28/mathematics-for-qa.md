@@ -1,12 +1,12 @@
 +++
 title = 'Математика для тестувальників'
 date = '2014-11-28T00:48:09+02:00'
-status: publish
-permalink: /2014/11/28/mathematics-for-qa
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 95
+
 thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
 category:
     - тестування

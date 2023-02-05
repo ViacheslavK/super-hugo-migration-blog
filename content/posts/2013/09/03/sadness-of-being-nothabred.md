@@ -1,21 +1,13 @@
 +++
 title = 'Сум і смуток відхабреності'
 date = '2013-09-03T11:21:33+03:00'
-status: publish
-permalink: /2013/09/03/sadness-of-being-nothabred
-author = "В''ячеслав Клевченя"
-excerpt: ''
-type: post
-id: 49
+author = "В'ячеслав Клевченя"
 thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
 category:
     - різне
 tag:
     - Habrahabr
     - Selenium
-post_format: []
-dsq_thread_id:
-    - '3937285058'
 +++
 Був той час, що дуже активно читав [Habrahabr](https://habr.com/ru/all/), ділився думкою в коментарях… і в якийсь момент отримав мінус у карму. За що про що – як тоді не розібрався, і на час “затих” (ну а що, без карми – і ні плюсик поставити, ні профілем не похвалитися).
 

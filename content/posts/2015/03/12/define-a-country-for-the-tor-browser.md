@@ -1,12 +1,12 @@
 +++
 title = 'Задати конкретну країну для перегляду через Tor Browser'
 date = '2015-03-12T01:34:57+02:00'
-status: publish
-permalink: /2015/03/12/define-a-country-for-the-tor-browser
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 31
+
 thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
 category:
     - інструменти

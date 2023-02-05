@@ -1,12 +1,12 @@
 ---
 title = 'Про тестовий фреймворк замовте слово&#8230;'
 date = '2014-11-10T12:13:16+02:00'
-status: publish
-permalink: /2014/11/10/do-not-forget-to-mention-a-test-framework
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 63
+
 thumbnail: ../../../../../uploads/2014/11/Planit-Career-Arrow-Software-Testing11.png
 category:
     - 'автоматичні тести'

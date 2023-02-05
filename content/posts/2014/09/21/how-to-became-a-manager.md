@@ -1,12 +1,12 @@
 +++
 title = 'Як стати менеджером'
 date = '2014-09-21T08:09:24+03:00'
-status: publish
-permalink: /2014/09/21/how-to-became-a-manager
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 89
+
 thumbnail: ../../../../../uploads/2014/09/145158_700.jpg
 category:
     - управління

@@ -1,12 +1,12 @@
 +++
 title = 'Як навчити писати гарні тестові сценарії?'
 date = '2013-12-07T13:59:17+02:00'
-status: publish
-permalink: /2013/12/07/how-to-teach-to-writie-good-testcases
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 80
+
 thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
 category:
     - управління

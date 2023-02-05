@@ -1,12 +1,12 @@
 +++
 title = 'Навчання тестувальників. Презентація компанії Mail.ru'
 date = '2014-12-24T17:37:05+02:00'
-status: publish
-permalink: /2014/12/24/education-for-qa
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 99
+
 thumbnail: ../../../../../uploads/2014/12/2-1024x5701-1024x570.png
 category:
     - тестування

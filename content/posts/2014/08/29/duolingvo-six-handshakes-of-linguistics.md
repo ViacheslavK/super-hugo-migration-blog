@@ -1,12 +1,12 @@
 +++
 title = 'Duolingvo: &#8220;шість рукостискань&#8221; лингвистики'
 date = '2014-08-29T11:10:34+03:00'
-status: publish
-permalink: /2014/08/29/duolingvo-six-handshakes-of-linguistics
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 86
+
 thumbnail: ../../../../../uploads/2014/08/offtopic.png
 category:
     - інструменти

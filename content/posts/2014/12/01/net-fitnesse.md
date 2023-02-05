@@ -1,12 +1,12 @@
 +++
 title = '.Net + FitNesse'
 date = '2014-12-01T10:29:08+02:00'
-status: publish
-permalink: /2014/12/01/net-fitnesse
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 97
+
 thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
 category:
     - 'автоматичні тести'

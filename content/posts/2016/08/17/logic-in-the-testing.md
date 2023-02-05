@@ -1,12 +1,12 @@
 ---
 title = 'Логіка у тестуванні'
 date = '2016-08-17T23:22:21+03:00'
-status: publish
-permalink: /2016/08/17/logic-in-the-testing
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 17994
+
 thumbnail: ../../../../../uploads/2015/08/cropped-bug11.jpg
 category:
     - психологія

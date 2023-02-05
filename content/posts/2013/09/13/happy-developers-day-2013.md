@@ -1,20 +1,12 @@
 +++
 title = 'З Днем Програміста!'
 date = '2013-09-13T15:07:23+03:00'
-status: publish
-permalink: /2013/09/13/happy-developers-day-2013
-author = "В''ячеслав Клевченя"
-excerpt: ''
-type: post
-id: 53
+author = "В'ячеслав Клевченя"
 thumbnail: ../../../../../uploads/2013/09/prazdnik.jpg
 category:
     - різне
 tag:
     - Свята
-post_format: []
-dsq_thread_id:
-    - '3635318770'
 +++
 Зі Святом Вас, Дорогі Программери:)
 

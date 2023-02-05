@@ -1,12 +1,12 @@
 +++
 title = 'Якість часу'
 date = '2014-09-26T12:38:32+03:00'
-status: publish
-permalink: /2014/09/26/quality-of-time
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 91
+
 thumbnail: ../../../../../uploads/2014/09/145158_700.jpg
 category:
     - управління

@@ -1,22 +1,13 @@
 +++
-title: Запрацювало!
+title = "Запрацювало!"
 date = '2013-08-28T11:05:20+03:00'
-status: publish
-permalink: /2013/08/28/it-works-finally
-author = "В''ячеслав Клевченя"
-excerpt: ''
-type: post
-id: 42
-thumbnail: ../../../../../uploads/2014/11/test_icon1.jpg
+author = "В'ячеслав Клевченя"
 category:
     - 'автоматичні тести'
 tag:
     - 'C#'
     - 'Page Object Pattern'
     - WebDriver
-post_format: []
-dsq_thread_id:
-    - '3635384970'
 +++
 Ура! Нарешті запрацювало!  
 … або Переходимо до Page Object Pattern

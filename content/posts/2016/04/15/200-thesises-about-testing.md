@@ -1,12 +1,12 @@
 ---
 title = '200 дисертацій з тестування у вільному доступі від редакторів qahelp.net'
 date = '2016-04-15T03:26:46+03:00'
-status: publish
-permalink: /2016/04/15/200-thesises-about-testing
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 17953
+
 thumbnail: ../../../../../uploads/2016/04/12990904_1705837203003812_3578887754255185818_n1.jpg
 category:
     - тестування

@@ -1,12 +1,12 @@
 +++
 title = 'Криза у світовій економіці?'
 date = '2014-12-09T10:05:03+02:00'
-status: publish
-permalink: /2014/12/09/world-economy-crisis
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 33
+
 thumbnail: ../../../../../uploads/2014/12/в•ЁРЄв•¤Рђв•Ёв••в•Ёв•–в•Ёв••в•¤Р‘1-300x2381-300x238.jpg
 category:
     - управління

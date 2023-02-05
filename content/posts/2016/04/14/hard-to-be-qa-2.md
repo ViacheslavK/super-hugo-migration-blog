@@ -1,12 +1,12 @@
 ---
 title = 'Чому важко бути QA? (частина 2)'
 date = '2016-04-14T10:37:25+03:00'
-status: publish
-permalink: /2016/04/14/hard-to-be-qa-2
-author = "В''ячеслав Клевченя"
-excerpt: ''
+
+
+author = "В'ячеслав Клевченя"
+
 type: post
-id: 17943
+
 thumbnail: ../../../../../uploads/2014/09/H-EFPTT5H-o1.jpg
 category:
     - психологія
