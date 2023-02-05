@@ -32,5 +32,3 @@ tags = ['SQL','Навчання']
 Досить багато матеріалів можна знайти на найбільшому (з відомих мені) сайті презентацій, наприклад, [цю](http://www.slideshare.net/AmrutaDey/sql-interview-questions-for-software-testers-16415733).
 
 Купа посилань? 🙂 Вдалого навчання!
-
-<div id="gtx-trans" style="position: absolute; left: 30px; top: 1317.33px;"><div class="gtx-trans-icon"></div></div>

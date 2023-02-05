@@ -12,5 +12,3 @@ tags = ['Для початківців','Тестування']
 
 А хто має бажання погратись із ListBoxer – посилання в студії [ListBoxerFull](https://onedrive.live.com/redir?resid=604400B879BA5CC1!4335&authkey=!ADXoHFFA7EDk3uw&ithint=file%2czip)  
 та невеликий бонус dumb (файли ListBoxer та [Dumb](https://onedrive.live.com/redir?resid=604400B879BA5CC1!4337&authkey=!AEgMV98MehbW89o&ithint=file%2czip) взяті з <http://iqa.com.ua/>)
-
-<div id="gtx-trans" style="position: absolute; left: 161px; top: 368px;"><div class="gtx-trans-icon"></div></div>

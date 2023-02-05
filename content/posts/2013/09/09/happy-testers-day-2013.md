@@ -6,5 +6,3 @@ categories = ['різне']
 tags = ['Свята']
 +++
 Ось він і настав, Цьогорічний День Тестувальника. Зі святом усіх причетних:)
-
-<div id="gtx-trans" style="position: absolute; left: -72px; top: -17px;"><div class="gtx-trans-icon"></div></div>
