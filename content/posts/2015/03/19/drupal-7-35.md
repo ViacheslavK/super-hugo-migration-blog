@@ -1,4 +1,4 @@
----
++++
 title = 'Drupal 7.35 &#8211; оновлення безпеки'
 date = '2015-03-19T14:25:37+02:00'
 
@@ -7,7 +7,6 @@ author = "В'ячеслав Клевченя"
 
 type: post
 
-thumbnail: ../../../../../uploads/2015/03/drupal-tips1-300x209.png
 category:
     - 'веб додатки'
 tag:
@@ -15,7 +14,7 @@ tag:
 post_format: []
 dsq_thread_id:
     - '3631434797'
----
++++
 Вийшло оновлення Drupal 7.35, яке включає фікси безпеки.
 
 Опис з [офіційного сайту](https://www.drupal.org):
@@ -31,8 +30,8 @@ Drupal 6 sites that have empty password hashes, or a password field with a guess
 
 <div class="wp-caption alignleft" id="attachment_27" style="width: 310px">[![drupal-tips[1]](https://i0.wp.com/slavaqa.pp.ua/wp-content/uploads/2015/03/drupal-tips1-300x209.png?resize=300%2C209)](https://i0.wp.com/slavaqa.pp.ua/wp-content/uploads/2015/03/drupal-tips1.png)Drupal
 
-</div>Open redirect (Several vectors including the “destination” URL parameter – Drupal 6 and 7)
-------------------------------------------------------------------------------------------
+## </div>Open redirect (Several vectors including the “destination” URL parameter – Drupal 6 and 7)
+
 
 Drupal core and contributed modules frequently use a “destination” query string parameter in URLs to redirect users to a new destination after completing an action on the current page. Under certain circumstances, malicious users can use this parameter to construct a URL that will trick users into being redirected to a 3rd party website, thereby exposing the users to potential social engineering attacks.
 

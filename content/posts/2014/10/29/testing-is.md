@@ -1,23 +1,11 @@
----
++++
 title = '&#8220;Testing&#8221; what is it? (by Michael Bolton)'
 date = '2014-10-29T15:24:24+02:00'
-
-
 author = "В'ячеслав Клевченя"
-
-type: post
-
-thumbnail: ../../../../../uploads/2015/03/sqt-300x2161-300x216.jpg
-category:
-    - тестування
-tag:
-    - Тестування
-post_format: []
-dsq_thread_id:
-    - '4042826081'
----
-Testing can means different
----------------------------
+category = ['тестування']
+tags = ['Тестування']
++++
+## Testing can means different
 
 Testing is — among other things — reviewing the product and ideas and descriptions of it, looking for significant and relevant inconsistencies.  
 Testing is — among other things — experimenting with the product to find out how it may be having problems—which is not “breaking the product”.  
@@ -38,7 +26,5 @@ Testing is — among other things — performing actual and thought experiments 
 Testing is — among other things — thinking critically and skeptically about products and ideas around them, with the goal of not being fooled.  
 Testing is — among other things — evaluating a product by learning about it through exploration, experimentation, observation and inference.
 
-Author
-------
-
+## Author
 Michael Bolton (<http://www.developsense.com/>)

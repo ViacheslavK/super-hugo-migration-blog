@@ -7,7 +7,6 @@ author = "В'ячеслав Клевченя"
 
 type: post
 
-thumbnail: ../../../../../uploads/2014/12/2-1024x5701-1024x570.png
 category:
     - тестування
 tag:

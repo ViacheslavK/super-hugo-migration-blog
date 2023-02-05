@@ -1,21 +1,9 @@
 +++
 title = 'Якість часу'
 date = '2014-09-26T12:38:32+03:00'
-
-
 author = "В'ячеслав Клевченя"
-
-type: post
-
-thumbnail: ../../../../../uploads/2014/09/145158_700.jpg
-category:
-    - управління
-tag:
-    - Час
-    - Якість
-post_format: []
-dsq_thread_id:
-    - '4042827099'
+category = ['управління']
+tags =['Час','Якість']
 +++
 > The idea that ‘we don’t have time’. Human beings feel trapped by a world that focuses on the quantity of time, not the quality of time  
 > — Maria Acle answers the question ‘what is the biggest problem we face in contemporary society?’

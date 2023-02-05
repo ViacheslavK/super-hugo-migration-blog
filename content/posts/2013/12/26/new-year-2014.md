@@ -1,20 +1,9 @@
 +++
 title = 'З Новим 2014 Роком!'
 date = '2013-12-26T17:20:28+02:00'
-
-
 author = "В'ячеслав Клевченя"
-
-type: post
-
-thumbnail: ../../../../../uploads/2013/12/shivb1bJSDA1.jpg
-category:
-    - різне
-tag:
-    - Свята
-post_format: []
-dsq_thread_id:
-    - '4039981779'
+category = ['різне']
+tags = ['Свята']
 +++
 Відчуваю, що це буде останній запис… цього року;)
 

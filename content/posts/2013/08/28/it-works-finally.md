@@ -2,12 +2,8 @@
 title = "Запрацювало!"
 date = '2013-08-28T11:05:20+03:00'
 author = "В'ячеслав Клевченя"
-category:
-    - 'автоматичні тести'
-tag:
-    - 'C#'
-    - 'Page Object Pattern'
-    - WebDriver
+category = ['автоматичні тести']
+tags = ['C#','Page Object Pattern','WebDriver']
 +++
 Ура! Нарешті запрацювало!  
 … або Переходимо до Page Object Pattern
