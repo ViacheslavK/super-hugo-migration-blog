@@ -32,6 +32,14 @@ paginate = 10
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
 
+  # whether to show a table of contents
+  # can be overridden in a page's front-matter
+  Toc = false # default
+
+  # set title for the table of contents
+  # can be overridden in a page's front-matter
+  TocTitle = "Зміст" # default
+
   # set all headings to their default size (depending on browser settings)
   # it's set to `true` by default
   # oneHeadingSize = false
@@ -56,6 +64,7 @@ paginate = 10
     readOtherPosts = "Read other posts"
     missingContentMessage = "Page not found..."
     missingBackButtonLabel = "Back to home page"
+    TocTitle = "Table of content"
 
     [languages.en.params.logo]
       logoText = "jUst QA blog"
@@ -69,4 +78,32 @@ paginate = 10
       [[languages.en.menu.main]]
         identifier = "documentation"
         name = "Public Notes"
+        url = "https://docs.slavaqa.pp.ua"
+
+  [languages.ua]
+    languageName = "Українська"
+    title = "jUst QA blog"
+    subtitle = "You can test everything. However, it will takes much longer than your life"
+    owner = "Viacheslav Klevchenia"
+    keywords = "QA, testing, test automation, motivation"
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    TocTitle = "Table of content"
+
+    [languages.ua.params.logo]
+      logoText = "jUst QA blog"
+      logoHomeLink = "/"
+
+    [languages.ua.menu]
+      [[languages.ua.menu.main]]
+        identifier = "cv"
+        name = "Lead SDET/QA Automation Engineer"
+        url = "/pages/cv"
+      [[languages.ua.menu.main]]
+        identifier = "documentation"
+        name = "Публічні нотатки"
         url = "https://docs.slavaqa.pp.ua"
