@@ -7,4 +7,4 @@ tags = ['Свята']
 +++
 Зі Святом Вас, Дорогі Программери:)
 
-[![Постер YouTube](https://img.youtube.com/vi/gpu3NynLQOo/maxresdefault.jpg)](https://www.youtube.com/watch?v=gpu3NynLQOo)
+[![Зі Святом Вас, Дорогі Программери](https://img.youtube.com/vi/gpu3NynLQOo/maxresdefault.jpg)](https://www.youtube.com/watch?v=gpu3NynLQOo)

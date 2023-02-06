@@ -31,5 +31,6 @@ tags=['Тест-дизайн','Тест-менеджмент']
 
 [Джерело](http://www.stickyminds.com/sites/default/files/magazine/file/2014/Test_Strategy.pdf)
 
-А ще можу порекомендувати наступне відео 🙂  
-<span class="embed-youtube" style="text-align:center; display: block;"><amp-youtube data-param-autohide="2" data-param-fs="1" data-param-hl="uk" data-param-iv_load_policy="1" data-param-rel="1" data-param-showinfo="1" data-param-showsearch="0" data-param-wmode="transparent" data-videoid="kvX_6rlHdbY" height="450" layout="responsive" width="800">[<amp-img alt="Постер YouTube" layout="fill" object-fit="cover" src="https://i0.wp.com/i.ytimg.com/vi/kvX_6rlHdbY/hqdefault.jpg?w=800&ssl=1"><noscript>![Постер YouTube](https://i0.wp.com/i.ytimg.com/vi/kvX_6rlHdbY/hqdefault.jpg?w=800&ssl=1)</noscript></amp-img>](https://www.youtube.com/watch?v=kvX_6rlHdbY)</amp-youtube></span>
+А ще можу порекомендувати наступне відео 🙂
+
+[![How to Think About Test Strategy](https://img.youtube.com/vi/kvX_6rlHdbY/maxresdefault.jpg)](https://www.youtube.com/watch?v=kvX_6rlHdbY)
