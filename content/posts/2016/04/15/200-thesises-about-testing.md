@@ -215,5 +215,3 @@ tags = ['Навчання','Тестування']
 [A hierarchical approach to the formal verification of embedded systems using MDGs](http://spectrum.library.concordia.ca/1090/1/MQ47823.pdf)  
 [Usability analysis of the channel application programming interface](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA417334)  
 [A run-time environment for concurrent Ada software test analysis](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.15.5479)
-
-<div id="gtx-trans" style="position: absolute; left: -41px; top: 674.688px;"><div class="gtx-trans-icon"></div></div>

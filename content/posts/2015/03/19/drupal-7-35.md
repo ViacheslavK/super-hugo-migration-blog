@@ -18,10 +18,9 @@ In Drupal 7, this vulnerability is mitigated by the fact that it can only be exp
 
 Drupal 6 sites that have empty password hashes, or a password field with a guessable string in the database, are especially prone to this vulnerability. This could apply to sites that use external authentication so that the password field is set to a fixed, invalid value.
 
-<div class="wp-caption alignleft" id="attachment_27" style="width: 310px">[![drupal-tips[1]](https://i0.wp.com/slavaqa.pp.ua/wp-content/uploads/2015/03/drupal-tips1-300x209.png?resize=300%2C209)](https://i0.wp.com/slavaqa.pp.ua/wp-content/uploads/2015/03/drupal-tips1.png)Drupal
+## Drupal
 
-## </div>Open redirect (Several vectors including the “destination” URL parameter – Drupal 6 and 7)
-
+## Open redirect (Several vectors including the “destination” URL parameter – Drupal 6 and 7)
 
 Drupal core and contributed modules frequently use a “destination” query string parameter in URLs to redirect users to a new destination after completing an action on the current page. Under certain circumstances, malicious users can use this parameter to construct a URL that will trick users into being redirected to a 3rd party website, thereby exposing the users to potential social engineering attacks.
 

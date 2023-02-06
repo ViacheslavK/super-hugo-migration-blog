@@ -13,7 +13,8 @@ readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
-<iframe allow="autoplay" allowfullscreen="" frameborder="0" height="340" loading="lazy" src="https://www.dailymotion.com/embed/video/x2isb2v?pubtool=oembed" title="What Is Software Testing? Hilarious Hyderabad Trainer.. must watch" width="800"></iframe>
+
+https://www.dailymotion.com/embed/video/x2isb2v?pubtool=oembed  What Is Software Testing? Hilarious Hyderabad Trainer.. must watch
 
 Якось давно додав це відео про індійські процеси “війтівайті” і як тренер вчить тому, що testing is a process, в чернетки блогу і все ніяк не доходили руки до публікації. Тож, можливо, кілька років тому Ви його вже бачили. Ну а якщо ні – то приємного перегляду і з минулим професійним святом!
 
