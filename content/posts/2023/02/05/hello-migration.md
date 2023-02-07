@@ -7,6 +7,7 @@ cover = ""
 tags = ["Hugo", "Міграція", "Статичні сторінки"]
 keywords = ["", ""]
 description = ""
+featured_image = "cropped-bug1.jpg"
 showFullContent = false
 readingTime = true
 hideComments = false
