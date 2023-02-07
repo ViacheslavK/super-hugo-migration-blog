@@ -1,7 +1,7 @@
 +++
 title = "Hello Migration"
-date = "2023-02-05T11:29:14+01:00"
-author = ""
+publishDate = '2023-02-05T11:29:14+01:00'
+author = "В'ячеслав Клевченя"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["Hugo", "Міграція", "Статичні сторінки"]

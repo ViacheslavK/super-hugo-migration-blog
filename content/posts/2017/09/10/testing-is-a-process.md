@@ -1,6 +1,6 @@
 +++
 title = 'Testing is a process (минулому дню тестувальника присвячується)'
-date = '2017-09-10T13:08:01+03:00'
+publishDate = '2017-09-10T13:08:01+03:00'
 author = "В'ячеслав Клевченя"
 post_format = []
 authorTwitter = "" #do not include @

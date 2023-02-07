@@ -1,6 +1,6 @@
 +++
 title = '&#8220;Testing&#8221; what is it? (by Michael Bolton)'
-date = '2014-10-29T15:24:24+02:00'
+publishDate = '2014-10-29T15:24:24+02:00'
 author = "В'ячеслав Клевченя"
 categories = ['тестування']
 tags = ['Тестування']

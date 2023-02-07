@@ -1,6 +1,6 @@
 +++
 title = 'Сум і смуток відхабреності'
-date = '2013-09-03T11:21:33+03:00'
+publishDate = '2013-09-03T11:21:33+03:00'
 author = "В'ячеслав Клевченя"
 categories = ['різне']
 tags = ['Habrahabr','Selenium']

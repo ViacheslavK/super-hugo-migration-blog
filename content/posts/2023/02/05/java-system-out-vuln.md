@@ -1,7 +1,7 @@
 +++
 title = "Java System Out Vuln"
-date = "2023-02-05T13:25:54+01:00"
-author = ""
+publishDate = '2023-02-05T13:25:54+01:00'
+author = "В'ячеслав Клевченя"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["Java", "CVE", "Cybersecurity"]
@@ -11,6 +11,7 @@ showFullContent = false
 readingTime = true
 hideComments = false
 color = "" #color from the theme settings
+draft = true
 +++
 
 🔥🔥🔥Найдена уязвимость в методе `System.out.println()`. Чтобы добиться RCE нужно всего лишь выполнить `System.out.println()` с вредоносным `Object` с переопределением метода `toString()`.

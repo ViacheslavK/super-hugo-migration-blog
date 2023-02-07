@@ -1,6 +1,6 @@
 +++
 title = 'Про тестовий фреймворк замовте слово&#8230;'
-date = '2014-11-10T12:13:16+02:00'
+publishDate = '2014-11-10T12:13:16+02:00'
 author = "В'ячеслав Клевченя"
 categories = ['автоматичні тести']
 tags = ['C#','Page Object Pattern','Selenium','WebDriver']

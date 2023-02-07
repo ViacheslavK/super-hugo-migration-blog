@@ -1,6 +1,6 @@
 +++
 title = 'Джентльменський набір плагінів у WordPress'
-date = '2015-03-12T02:27:19+02:00'
+publishDate = '2015-03-12T02:27:19+02:00'
 author = "В'ячеслав Клевченя"
 categories = ['веб додатки']
 tags = ['Plugin','Wordpress']

@@ -1,6 +1,6 @@
 +++
 title = '.Net + FitNesse'
-date = '2014-12-01T10:29:08+02:00'
+publishDate = '2014-12-01T10:29:08+02:00'
 author = "В'ячеслав Клевченя"
 categories = ['автоматичні тести']
 tags = ['C#','FitNesse']
