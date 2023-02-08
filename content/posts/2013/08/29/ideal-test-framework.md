@@ -7,4 +7,4 @@ tags = ['Автоматизация тестування']
 +++
 Протягом “програми самонавчання” знайшов цікаве відео про тестові фреймворки – Довершений тестовий фреймворк
 
-[![Довершений тестовий фреймворк](https://img.youtube.com/vi/VuqvvGe74zI/maxresdefault.jpg)](https://www.youtube.com/watch?v=VuqvvGe74zI)
+{{< youtube VuqvvGe74zI >}}

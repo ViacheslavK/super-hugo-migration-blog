@@ -7,6 +7,4 @@ tags = ['Автоматизация тестування']
 +++
 Зустрівся запис виступу Геннадія Алпаєва на онлайн-конференції Auto ConfeT&amp;QA, який був зроблений навесні 2013 року про різні “переваги” та “недоліки” від автоматизації тестування. І собі на згадку, і поділитися з Вами.
 
-<!-- hqdefault.jpg -->
-
-[![5 do's and 5 don'ts автоматизации тестирования](https://img.youtube.com/vi/Gk7AhAazzjg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Gk7AhAazzjg)
+{{< youtube Gk7AhAazzjg >}}

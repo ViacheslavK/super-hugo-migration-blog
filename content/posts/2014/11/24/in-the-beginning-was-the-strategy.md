@@ -33,4 +33,4 @@ tags=['Тест-дизайн','Тест-менеджмент']
 
 А ще можу порекомендувати наступне відео 🙂
 
-[![How to Think About Test Strategy](https://img.youtube.com/vi/kvX_6rlHdbY/maxresdefault.jpg)](https://www.youtube.com/watch?v=kvX_6rlHdbY)
+{{< youtube kvX_6rlHdbY >}}

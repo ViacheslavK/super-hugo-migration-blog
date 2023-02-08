@@ -11,4 +11,4 @@ tags = ['Навчання','Тест-дизайн']
 
 Ну а відео повністю ви, власне, можете подивитись далі. Дуже раджу, особисто сподобалось.
 
-[![Объем тест кейса против его содержательности](https://img.youtube.com/vi/mHhy1YftRCw/maxresdefault.jpg)](https://www.youtube.com/watch?v=mHhy1YftRCw)
+{{< youtube mHhy1YftRCw >}}

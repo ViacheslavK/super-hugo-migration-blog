@@ -7,4 +7,4 @@ tags = ['Співбесіда']
 +++
 Сподобалось це відео, де одна “досить відома людина” дає підказки з теми. Закортілось поділитися (та й просто – замітка на згадку).
 
-[![Расскажите о том, чего нет в резюме](https://img.youtube.com/vi/_sfAO8gAh7g/maxresdefault.jpg)](https://www.youtube.com/watch?v=_sfAO8gAh7g)
+{{< youtube _sfAO8gAh7g >}}

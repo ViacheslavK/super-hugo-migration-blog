@@ -9,4 +9,4 @@ tags = ['Навчання']
 Якщо правильно поставити мету, якщо позбавиться відволікань — достатньо 20 годин. 45 хвилин упродовж місяця. 45 хвилин ефективної практики. І можна досягти чудового результату. І не варто “зубрити” 20+ джерел. Достатньо 3-5.  
 Докладніше — у наступному відео.
 
-[![The first 20 hours -- how to learn anything](https://img.youtube.com/vi/5MgBikgcWnY/maxresdefault.jpg)](https://www.youtube.com/watch?v=5MgBikgcWnY)
+{{< youtube 5MgBikgcWnY >}}
