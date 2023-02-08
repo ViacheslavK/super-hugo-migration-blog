@@ -1,7 +1,8 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "uk"
 theme = "terminal"
 paginate = 10
+defaultContentLanguage = "uk"
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -52,58 +53,30 @@ paginate = 10
   site = ""
 
 [languages]
-  [languages.en]
-    languageName = "English"
-    title = "jUst QA blog"
-    subtitle = "You can test everything. However, it will takes much longer than your life"
-    owner = "Viacheslav Klevchenia"
-    keywords = "QA, testing, test automation, motivation"
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
-    TocTitle = "Table of content"
-
-    [languages.en.params.logo]
-      logoText = "jUst QA blog"
-      logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "cv"
-        name = "Lead SDET/QA Automation Engineer"
-        url = "/pages/cv"
-      [[languages.en.menu.main]]
-        identifier = "documentation"
-        name = "Public Notes"
-        url = "https://docs.slavaqa.pp.ua"
-
-  [languages.ua]
+  [languages.uk]
     languageName = "Українська"
     title = "jUst QA blog"
-    subtitle = "You can test everything. However, it will takes much longer than your life"
-    owner = "Viacheslav Klevchenia"
+    subtitle = "Протестувати все неможливо. Але є те, що необхідно чи достатньо"
+    owner = "В'ячеслав Клевченя"
     keywords = "QA, testing, test automation, motivation"
     copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
-    TocTitle = "Table of content"
+    menuMore = "Більше"
+    readMore = "Читати далі"
+    readOtherPosts = "Інші записи"
+    missingContentMessage = "Щось пішло не так і сторінка на знайшлась..."
+    missingBackButtonLabel = "До головної"
+    TocTitle = "Зміст"
 
-    [languages.ua.params.logo]
+    [languages.uk.params.logo]
       logoText = "jUst QA blog"
       logoHomeLink = "/"
 
-    [languages.ua.menu]
-      [[languages.ua.menu.main]]
+    [languages.uk.menu]
+      [[languages.uk.menu.main]]
         identifier = "cv"
         name = "Lead SDET/QA Automation Engineer"
         url = "/pages/cv"
-      [[languages.ua.menu.main]]
+      [[languages.uk.menu.main]]
         identifier = "documentation"
-        name = "Публічні нотатки"
+        name = "Публічні Нотатки"
         url = "https://docs.slavaqa.pp.ua"
