@@ -1,0 +1,36 @@
+<footer class="footer">
+  <div class="footer__inner">
+    <span>
+      {{ if $.Site.Copyright }}
+      <div class="copyright copyright--user">
+        <span>{{ $.Site.Copyright | safeHTML }}</span>
+        {{ else }}
+        <div class="copyright">
+          <span class="m-2">© 2013 - {{ now.Year }} Powered by <a href="http://gohugo.io">Hugo Static Generator</a> and using <a
+              href="https://github.com/panr/hugo-theme-terminal">Terminal</a>-based theme</span>
+          {{ end }}
+        </div>
+        <div class="d-flex flex-row flex-wrap">
+          <div class="m-2"><a href="https://t.me/crazy_personal_philosophy" target="_blank" rel="noopener">Telegram</a></div>
+          <div class="m-2"><a href="https://www.youtube.com/@slavaqa-pp-ua" target="_blank" rel="noopener">Youtube</a></div>
+          <div class="m-2"><a href="https://www.facebook.com/slavaqa.pp.ua" target="_blank" rel="noopener">Facebook</a></div>
+          <div class="m-2"><a href="https://x.com/slavaqa" target="_blank" rel="noopener">X</a></div>
+          <div class="m-2"><a href="https://www.linkedin.com/in/klevchenia/" target="_blank" rel="noopener">LinkedIn</a></div>
+          <div class="m-2"><a href="https://github.com/ViacheslavK" target="_blank" rel="noopener">GitHub</a></div>
+          {{ with .OutputFormats.Get "RSS" }}
+          <div class="m-2"><a href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml">RSS Feed</a></div>
+          {{ end }}
+        </div>
+    </span>
+  </div>
+</footer>
+
+{{ $menu := resources.Get "js/menu.js" | js.Build }}
+{{ $prism := resources.Get "js/prism.js" | js.Build }}
+
+{{ $bundle := slice $menu $prism | resources.Concat "bundle.js" | resources.Minify }}
+
+<script type="text/javascript" src="{{ $bundle.RelPermalink }}"></script>
+
+<!-- Extended footer section-->
+{{ partial "extended_footer.html" . }}
