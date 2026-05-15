@@ -9,7 +9,8 @@
       "PowerShell(cd \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; & \\(Get-Command hugo\\).Source 2>&1 | Select-Object -Last 5)",
       "PowerShell($env:PATH)",
       "PowerShell($hugo = \"C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\\\\hugo.exe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; & $hugo 2>&1 | Select-Object -Last 8)",
-      "PowerShell($hugo = \"C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\\\\hugo.exe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; & $hugo 2>&1 | Select-String -Pattern \"WARN|ERROR|Total\")"
+      "PowerShell($hugo = \"C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\\\\hugo.exe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; & $hugo 2>&1 | Select-String -Pattern \"WARN|ERROR|Total\")",
+      "Bash(git submodule *)"
     ]
   }
 }
