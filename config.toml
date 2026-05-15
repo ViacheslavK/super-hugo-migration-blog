@@ -1,8 +1,13 @@
-baseurl = "/"
+baseurl = "https://slavaqa.pp.ua/"
 languageCode = "uk"
 theme = "terminal"
 paginate = 10
 defaultContentLanguage = "uk"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
   # dir name of your main content (default is `content/posts`).

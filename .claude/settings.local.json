@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Path \"D:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\\\\content\" | Select-Object Name, @{N='Type';E={if\\($_.PSIsContainer\\){'Directory'}else{'File'}}})",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\\\\layouts\" | Select-Object Name, @{N='Type';E={if\\($_.PSIsContainer\\){'Directory'}else{'File'}}})",
+      "PowerShell(New-Item -ItemType Directory -Force \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\\\\layouts\\\\_default\")"
+    ]
+  }
+}
