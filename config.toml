@@ -1,5 +1,5 @@
 baseurl = "https://slavaqa.pp.ua/"
-languageCode = "uk"
+locale = "uk"
 theme = "terminal"
 paginate = 10
 defaultContentLanguage = "uk"
@@ -59,7 +59,7 @@ defaultContentLanguage = "uk"
 
 [languages]
   [languages.uk]
-    languageName = "Українська"
+    label = "Українська"
     title = "jUst QA blog"
     subtitle = "Протестувати все неможливо. Але є те, що необхідно чи достатньо"
     owner = "В'ячеслав Клевченя"
