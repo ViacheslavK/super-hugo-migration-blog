@@ -10,7 +10,20 @@
       "PowerShell($env:PATH)",
       "PowerShell($hugo = \"C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\\\\hugo.exe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; & $hugo 2>&1 | Select-Object -Last 8)",
       "PowerShell($hugo = \"C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\\\\hugo.exe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; & $hugo 2>&1 | Select-String -Pattern \"WARN|ERROR|Total\")",
-      "Bash(git submodule *)"
+      "Bash(git submodule *)",
+      "PowerShell($hugo = \"C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\\\\hugo.exe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; & $hugo 2>&1 | Select-String -Pattern \"ERROR|WARN|Total\")",
+      "Bash(Get-ChildItem -Path \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\\\\themes\\\\terminal\\\\\" -Recurse -Name)",
+      "Bash(xxd)",
+      "Bash(git remote *)",
+      "Bash(git fetch *)",
+      "Bash(git checkout *)",
+      "Bash(git merge *)",
+      "Bash(git rm *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(\"C:/Users/vyk/AppData/Local/Microsoft/WinGet/Packages/Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe/hugo.exe\")",
+      "Bash(hugo)",
+      "PowerShell($hugo = \"C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\\\\hugo.exe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; $result = & $hugo 2>&1; $result | Select-String -Pattern \"ERROR|WARN|Total|Pages\")"
     ]
   }
 }
