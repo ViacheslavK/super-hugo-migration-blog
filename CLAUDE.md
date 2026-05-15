@@ -21,7 +21,13 @@ hugo
 hugo server -D
 ```
 
-Hugo Extended is required (for SCSS processing in the theme).
+Hugo Extended is required (for SCSS processing in the theme). The pinned version used for Cloudflare Pages builds is **0.161.1**.
+
+## Deployment
+
+The site is deployed via **Cloudflare Pages**. `build.sh` at the repo root downloads Hugo Extended 0.161.1 and runs `hugo`. Set Cloudflare's build command to `bash build.sh` and the output directory to `public`.
+
+Preview deployments use a `*.pages.dev` URL that differs from the production domain (`slavaqa.pp.ua`). Always use `RelPermalink` (not `Permalink`) in layout templates so that CSS and asset URLs are relative and work on both the preview and production domains.
 
 ## Theme
 
@@ -32,6 +38,21 @@ After cloning, initialize the submodule:
 ```bash
 git submodule update --init --recursive
 ```
+
+### Theme version notes
+
+- **v4.2.3**: `prism.js` was removed from theme assets and replaced by `code.js`. The root override `layouts/partials/footer.html` already reflects this.
+- CSS assets are loaded via `resources.Match "css/*.css"` with minification and fingerprinting in `layouts/partials/head.html`. Bootstrap 5.2.3 is loaded from CDN before theme styles.
+
+### Layout overrides
+
+| File | Purpose |
+| --- | --- |
+| `layouts/partials/head.html` | Meta tags, CSS, Twitter Card, OG data |
+| `layouts/partials/footer.html` | Replaces `prism.js` with `code.js` |
+| `layouts/partials/mobile-menu.html` | Fixes `Language.Label` compatibility |
+| `layouts/partials/extended_head.html` | Hook for extra `<head>` content |
+| `layouts/_default/rss.xml` | Custom RSS feed template |
 
 ## Content Structure
 
