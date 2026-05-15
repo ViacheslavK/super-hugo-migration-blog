@@ -23,7 +23,16 @@
       "Bash(git commit *)",
       "Bash(\"C:/Users/vyk/AppData/Local/Microsoft/WinGet/Packages/Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe/hugo.exe\")",
       "Bash(hugo)",
-      "PowerShell($hugo = \"C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\\\\hugo.exe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; $result = & $hugo 2>&1; $result | Select-String -Pattern \"ERROR|WARN|Total|Pages\")"
+      "PowerShell($hugo = \"C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\\\\hugo.exe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; $result = & $hugo 2>&1; $result | Select-String -Pattern \"ERROR|WARN|Total|Pages\")",
+      "PowerShell($hugo = \"C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\\\\hugo.exe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; $result = & $hugo 2>&1; Write-Output \\($result -join \"`n\"\\))",
+      "PowerShell(scoop which hugo 2>$null)",
+      "PowerShell(winget list hugo 2>$null)",
+      "PowerShell(Get-ChildItem \"$env:LOCALAPPDATA\\\\Microsoft\\\\WinGet\" -Recurse -Filter \"hugo.exe\" -ErrorAction SilentlyContinue -Depth 6 | Select-Object FullName)",
+      "PowerShell(cmd /c \"where hugo\" 2>&1)",
+      "PowerShell([System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) -split \";\" | Where-Object { $_ -ne \"\" } | Sort-Object)",
+      "PowerShell([System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\) -split \";\" | Where-Object { $_ -ne \"\" } | Sort-Object)",
+      "PowerShell($env:PATH = $env:PATH + \";C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; hugo version 2>&1)",
+      "PowerShell($env:PATH = $env:PATH + \";C:\\\\Users\\\\vyk\\\\AppData\\\\Local\\\\Microsoft\\\\WinGet\\\\Packages\\\\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe\"; Set-Location \"d:\\\\PersonalProjects\\\\BLOG_project\\\\BlogMigration\\\\super-hugo-migration-blog\"; hugo 2>&1)"
     ]
   }
 }
